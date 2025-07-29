@@ -1,17 +1,18 @@
-# Faction Relations Overhaul
+# Faction Relations Overhaul - DLTX Update [1.2]
 
-Overhauls the relations between factions so that they reflect better on the S.T.A.L.K.E.R. Lore-established relations, but does not follow them strictly, therefore some of the changes are not Lore-wise correct (Such as Duty-Ecologists hostility).<br>
-Because of that, it is making the Zone (quite) a bit more dangerous than usual since many factions have more enemies than in the Anomaly (G.A.M.M.A.), therefore an utilization of the Disguise system is a must.<br>
-~~It also partially fixes the Sin-Mutants relations, making them neutral to each other in every level other than the Lab x16, where the mutants still attack the Sin, therefore in the runs with this mod installed, mutants will always win the fight with the Sin since they won't shoot at them.~~<br>
+Overhauls the relations between factions so that they reflect better on the S.T.A.L.K.E.R. Lore-established relations, but it does **not** follow them strictly, thus the inconsistencies such as Duty-Ecologists hostility exist.<br>
 
-## Installation
+However, these changes are intentional, both because from the Faction lore perspective, said faction relationships should not be as they are, and to make the Zone a more dangerous place.<br>
 
-1. Download the mod from [here](https://github.com/MVukanichh/factionrelationsoverhaul) (Click on the green "Code" button and then on "Download ZIP")
+Because of that, usage of the Disguise System is a must in order to venture in the hostile areas. This also makes care-free running around the Zone much more punishing, as the factions that used to be Neutral might now not be.<br>
+
+## Installation 
+
+1. Download the mod from [here](https://github.com/LessThanThree-OMG/factionrelationsoverhaul) (Click on the green "Code" button and then on "Download ZIP")
 2. Install the mod through the Mod Organizer 2
 
-By default in the default G.A.M.M.A. modlist, there are Two (2) mods that Faction Relations Overhaul must win the conflicts against ("161- Improved player and NPCs ranks (longer for player, faster for companions) - mandothreesixtee" and "G.A.M.M.A. Economy (don't disable, turn on Black Market to buy gear)"), therefore putting the mod anywhere below the "G.A.M.M.A. Economy and Craft" separator is acceptable but putting the mod as low in the load order as possible is recommended, as it must **not** lose any conflicts.
+Since this mod is now DLTX, the place in the Load Order is **not** important, although it's still probably going to be below the Base GAMMA files that contain the "game_relations.ltx" file.
 
 ## Credits
 
-For changing the faction relations: Me<br>
-~~For the Sin-Mutant relations fix: [Ryiverz with Sin Upgrade Software](https://www.moddb.com/mods/stalker-anomaly/addons/sin-upgrade-software/)~~
+Me (LessThanThree)
